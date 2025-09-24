@@ -1,6 +1,4 @@
-<p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1200&color=7FDBFF&width=600&lines=👋+Hola,+soy+Regina!)](https://git.io/typing-svg)
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1200&color=7FDBFF&width=600&lines=👋+Hola,+soy+Regina!)](https://git.io/typing-svg)
 
  💻 Técnica en Desarrollo Web en formación.  
  
