@@ -14,7 +14,6 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 📬 Contacto
 [![Email](https://img.shields.io/badge/Email-regiisanchez%40hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:regiisanchez@hotmail.com)
